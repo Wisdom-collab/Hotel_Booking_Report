@@ -32,7 +32,7 @@ In this phase, relationships between various tables were established to build a 
 - **Location dimension** (connected with the country code)
 - **Hotel dimension** (connected with the hotel ID)
 - **Distribution dimension** (connected with the distribution channel ID)
-
+  <img width="1007" height="500" alt="image" src="https://github.com/user-attachments/assets/57bbe4f1-b507-4265-a6d0-9faf03c2b47f" />
 This structured data model allows for flexible analysis and insights across multiple variables, such as guest types, booking channels, and room performance.
 
 ## Data Analysis and Visualisation
@@ -42,6 +42,7 @@ The dashboard is built using Power BI to showcase critical insights derived from
 - **Guest Demographics**: A pie chart visualizes the breakdown of bookings between new and repeat guests, highlighting a strong base of repeat customers.
 - **Room Type Performance**: Revenue performance by room type is displayed, identifying room types like ‘A’ generating the highest revenue.
 - **Cancellation Rates**: A bar chart details the cancellation rates by distribution channel, with TA/TO (Tour Operators) having the highest cancellation rate at 29.9%.
+<img width="810" height="534" alt="image" src="https://github.com/user-attachments/assets/ae3d5a5a-f886-4508-b5ab-1e7a7a7044ea" />
 
 These visualisations provide actionable insights into key business performance indicators, enabling stakeholders to make data-driven decisions.
 
